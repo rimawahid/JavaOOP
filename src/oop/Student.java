@@ -6,6 +6,13 @@ public class Student {
     String name, gender;
     int roll;
     
+    
+    //Default constructor
+    Student(){
+        System.out.println("NO vlaue initialized");
+    }
+    
+    //Parametrized constructor
     Student(String st_n, String st_g, int st_r){
         name = st_n;
         gender = st_g;
