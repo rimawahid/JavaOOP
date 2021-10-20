@@ -11,6 +11,6 @@ public class StuConstructor {
         
         //Default constructor
         Student stu2 = new Student();
-        stu2.showStInfo();
+        stu2.showStInfo();//show Default value
     }
 }

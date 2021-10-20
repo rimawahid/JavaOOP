@@ -18,6 +18,8 @@ public class Student {
         gender = st_g;
         roll = st_r;
     }
+    
+    //Method
     void showStInfo(){
         System.out.println("Name : "+ name);
         System.out.println("Gender : "+ gender);
