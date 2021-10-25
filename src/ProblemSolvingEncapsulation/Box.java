@@ -1,5 +1,5 @@
 
-package problemSolve;
+package ProblemSolvingEncapsulation;
 
 public class Box {
     double height,width,depth, volume;//instance variable 

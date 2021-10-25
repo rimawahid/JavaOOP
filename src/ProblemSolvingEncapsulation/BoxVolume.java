@@ -1,5 +1,5 @@
 
-package problemSolve;
+package ProblemSolvingEncapsulation;
 
 
 public class BoxVolume {
